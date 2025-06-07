@@ -1,5 +1,10 @@
 # al-folio
 
+```bash
+$ docker compose pull
+$ docker compose up
+```
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)

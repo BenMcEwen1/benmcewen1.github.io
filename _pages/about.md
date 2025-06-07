@@ -10,11 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
  
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -29,6 +29,7 @@ Kia ora! I am a postdoctoral researcher specialising in audio machine learning a
 My current project is [TABMON](https://www.nina.no/english/TABMON) where I am contributing to the development of a transnational biodiversity monitoring system with autonomous acoustic sensors from Norway to Spain.
 
 I am the co-lead of the [Listening Lab](https://www.listeninglabnz.com/) a multidisciplinary research group developing computational bioacoustic tools for conservation in New Zealand. I completed my PhD in computer Science from the Unversity of Canterbury where I developed methods for detection of invasive species. I am especially interested in how computational tools can aid in the detection of rare, at-risk and invasive species.
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
