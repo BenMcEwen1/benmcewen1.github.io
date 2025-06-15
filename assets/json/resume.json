@@ -5,7 +5,6 @@
     "image": "",
     "email": "benmcewen@outlook.com",
     "phone": "",
-    "url": "https://benmcewen1.github.io",
     "summary": "Audio machine learning researcher with a focus on bioacoustics and uncertainty quantification. I am passionate about using machine learning to solve real-world problems, particularly in the field of biodiversity conservation.",
     "location": {},
     "profiles": []
@@ -31,14 +30,14 @@
       "startDate": "2020",
       "endDate": "2024",
       "score": "10",
-      "courses": ["Signal Processing", "Information Theory", "Uncertainty Quantification", "Machine Learning"]
+      "courses": ["Signal Processing", "Uncertainty Quantification", "Machine Learning"]
     },
     {
       "institution": "University of Canterbury, New Zealand",
       "location": "New Zealand",
       "url": "",
       "area": "Mechatronics Engineering",
-      "studyType": "Bachelors of Engineering, (First Class Honours)",
+      "studyType": "Bachelors of Engineering (First Class Honours)",
       "startDate": "2016",
       "endDate": "2019",
       "score": "10",
@@ -80,8 +79,7 @@
       "name": "An Improved Computational Bioacoustic Monitoring Approach for Detecting Sparse Features",
       "publisher": "Acoustical Society of America (JASA)",
       "releaseDate": "2023",
-      "url": "https://pubs.aip.org/asa/jasa/article/154/4_supplement/A143/2924086/An-improved-computational-bioacoustic-monitoring",
-      "summary": "Wavelet-based segmentation"
+      "url": "https://pubs.aip.org/asa/jasa/article/154/4_supplement/A143/2924086/An-improved-computational-bioacoustic-monitoring"
     }
   ],
   "skills": [
@@ -92,8 +90,7 @@
       "keywords": [
         "Machine Learning",
         "Uncertainty Quantification",
-        "Signal Processing",
-        "Information Theory"
+        "Signal Processing"
       ]
     }
   ],
