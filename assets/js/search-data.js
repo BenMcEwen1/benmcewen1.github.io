@@ -43,28 +43,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%62%65%6E%6D%63%65%77%65%6E@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/ben-mcewen-phd", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=x47JZUkAAAAJ", "_blank");
-        },
-      },{
+            },},{id: "news-phd-completed-i-ve-completed-my-phd-computational-bioacoustics-for-the-detection-of-rare-acoustic-events-you-can-read-the-full-thesis-here",
+          title: 'PhD Completed — I’ve completed my PhD Computational Bioacoustics for the Detection of...',
+          description: "",
+          section: "News",},{id: "news-starting-postdoctoral-research-in-the-netherlands-i-ve-joined-tilburg-university-as-a-postdoctoral-researcher-in-dr-dan-stowell-s-group-working-on-the-transnational-tabmon-biodiversity-monitoring-project-learn-more-here",
+          title: 'Starting Postdoctoral Research in the Netherlands — I’ve joined Tilburg University as a...',
+          description: "",
+          section: "News",},{id: "news-co-organising-the-biodcase-workshop-see-you-at-the-upcoming-biodcase-and-dcase-workshop",
+          title: 'Co-organising the BioDCASE Workshop — See you at the upcoming BioDCASE and DCASE...',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
