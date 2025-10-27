@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-10-29
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+**Co-organising the BioDCASE Workshop** — See you at the upcoming [BioDCASE](https://biodcase.github.io/) and [DCASE Workshop](https://dcase.community/workshop2025/)!
