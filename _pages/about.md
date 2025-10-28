@@ -19,9 +19,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 Kia ora! I am a postdoctoral researcher specialising in audio machine learning and bioacoustics based at Tilburg University, Netherlands. My research interests include active learning and uncertainty quantification for scaleable and data-efficient biodiversity monitoring.
