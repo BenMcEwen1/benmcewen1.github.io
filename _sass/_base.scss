@@ -599,6 +599,7 @@ footer.sticky-bottom {
   z-index: -1;
   top: -16px;
   right: -16px;
+  // color: #cd3d73;
   background: var(--global-theme-color);
   height: 32px;
   width: 32px;
@@ -612,9 +613,14 @@ footer.sticky-bottom {
   transform: scale(28);
 }
 
+.card1 p {
+  text-decoration: none !important;
+}
+
 .card1:hover p {
   transition: all 0.3s ease-out;
-  color: rgba(255, 255, 255, 0.8);
+  color: #f2f8f9;
+  text-decoration: none !important;
 }
 
 .card1:hover h3 {
