@@ -547,6 +547,14 @@ footer.sticky-bottom {
 // Paper conponent
 
 /* From Uiverse.io by Prince4fff */ 
+.paper-card a {
+  text-decoration: none !important;
+}
+
+.paper-card a p {
+  text-decoration: none !important;
+}
+
 .paper-card p {
   font-size: 17px;
   font-weight: 400;
@@ -585,7 +593,7 @@ footer.sticky-bottom {
   max-width: 400px;
   background-color: #f2f8f9;
   border-radius: 4px;
-  padding: 32px 24px;
+  padding: 16px 24px;
   margin: 20px;
   margin-left: 0px;
   text-decoration: none;

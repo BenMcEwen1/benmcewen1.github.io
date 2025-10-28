@@ -2,10 +2,12 @@
 layout: post
 title: Data Efficient Large-Scale Bioacoustic Monitoring
 date: 2025-09-05 16:40:16
-description:
+description: Developing a transnational biodiversity monitoring network and data pipeline.
 tags: TABMON
 categories: Research
 ---
+
+As part of my postdoctoral research project I am lucky to work with an incredible team of ecologists and machine learning researchers across Europe. This is a brief overview of what we have been building.
 
 TABMON is Europe's largest network of acoustic recorders for biodiversity monitoring, with network-connected Bugg microphones recording audio 24/7 from Norway to Spain. This provides biodiversity insights at previously infeasible scales but also produces vast quantities of raw field data. 
 

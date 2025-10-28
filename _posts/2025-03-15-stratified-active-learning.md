@@ -2,7 +2,7 @@
 layout: post
 title: Stratified Active Learning
 date: 2025-03-15 16:40:16
-description: This is a description
+description: Improving model generalisation across diverse ecosystems and changing soundscapes.
 tags: TABMON
 categories: Research
 ---
