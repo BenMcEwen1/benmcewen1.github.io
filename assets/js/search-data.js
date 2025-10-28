@@ -20,7 +20,7 @@ ninja.data = [{
         
           title: "Data Efficient Large-Scale Bioacoustic Monitoring",
         
-        description: "",
+        description: "Developing a transnational biodiversity monitoring network and data pipeline.",
         section: "Posts",
         handler: () => {
           
@@ -31,7 +31,7 @@ ninja.data = [{
         
           title: "Stratified Active Learning",
         
-        description: "This is a description",
+        description: "Improving model generalisation across diverse ecosystems and changing soundscapes.",
         section: "Posts",
         handler: () => {
           
