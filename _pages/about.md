@@ -38,7 +38,7 @@ My current project is [TABMON](https://www.nina.no/english/TABMON) where I am co
 I am the co-lead of the [Listening Lab](https://www.listeninglabnz.com/) a multidisciplinary research group developing computational bioacoustic tools for conservation in New Zealand. I completed my PhD in computer Science from the Unversity of Canterbury where I developed methods for detection of invasive species. I am especially interested in how computational tools can aid in the detection of rare, at-risk and invasive species.
 
 <a href="/blog/2026/biodcase-challenge/">
-  <img src="/assets/img/BioDCASE (LinkedIn Landscape 1200x627).jpg" alt="Active Learning for Bioacoustics BioDCASE Challenge" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 1rem;">
+  <img src="/assets/img/BioDCASE v2 (LinkedIn Landscape 1200x480).jpg" alt="Active Learning for Bioacoustics BioDCASE Challenge" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 1rem;">
 </a>
 
 
