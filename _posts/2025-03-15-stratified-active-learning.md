@@ -9,9 +9,11 @@ categories: Research
 
 Active learning is a method of training a machine learning model using less data by carefully selecting the most informative samples (read more [here](/blog/2025/active-learning/)).
 
-Generally, active learning is evaluated in terms of global training efficiency i.e. the discriminative model performance given the number of samples. This is an important aspect of active learning but, I think this often fails to properly evaluate the generalisability of performance across-domains (e.g. locations, time, classes etc). 
+Generally, active learning is evaluated in terms of global training efficiency i.e. the discriminative model performance given the number of samples. This is an important aspect of active learning but I think this often fails to properly evaluate the generalisability of performance across-domains (e.g. locations, time, classes etc). 
 
 This [pre-print](https://doi.org/10.1101/2025.09.01.673472) explores the generalisability of model performance across spatial and temporal scales and investigates how active sampling and diversification methods can improve the generalisability of model performance across domains.
+
+If you have questions or feedback about this work then get in [contact](mailto:benmcewen@outlook.com). Your feedback is welcome.
   
 <!-- From Uiverse.io by Prince4fff - Doesn't render in preview --> 
 <div class="paper-card">

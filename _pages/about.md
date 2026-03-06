@@ -2,7 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Audio Machine Learning and Bioacoustics Researcher. Co-lead of the <a href='https://www.listeninglabnz.com/'>Listening Lab</a>
+subtitle: >
+  Postdoctoral Researcher
+  <span style="border-left: 1px solid var(--global-theme-color); margin: 0 0.6em; opacity: 0.6;"></span>
+  Machine Learning &amp; Biodiversity
+  <span style="border-left: 1px solid var(--global-theme-color); margin: 0 0.6em; opacity: 0.6;"></span>
+  Active Learning
+  <span style="border-left: 1px solid var(--global-theme-color); margin: 0 0.6em; opacity: 0.6;"></span>
+  Co-lead of the <a href='https://www.listeninglabnz.com/'>Listening Lab</a>
 
 profile:
   align: left
@@ -29,6 +36,10 @@ Kia ora! I am a postdoctoral researcher specialising in audio machine learning a
 My current project is [TABMON](https://www.nina.no/english/TABMON) where I am contributing to the development of a transnational biodiversity monitoring system with autonomous acoustic sensors from Norway to Spain.
 
 I am the co-lead of the [Listening Lab](https://www.listeninglabnz.com/) a multidisciplinary research group developing computational bioacoustic tools for conservation in New Zealand. I completed my PhD in computer Science from the Unversity of Canterbury where I developed methods for detection of invasive species. I am especially interested in how computational tools can aid in the detection of rare, at-risk and invasive species.
+
+<a href="/blog/2026/biodcase-challenge/">
+  <img src="/assets/img/BioDCASE (LinkedIn Landscape 1200x627).jpg" alt="Active Learning for Bioacoustics BioDCASE Challenge" style="max-width: 100%; height: auto; border-radius: 8px; margin-top: 1rem;">
+</a>
 
 
 
