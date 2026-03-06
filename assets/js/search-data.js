@@ -16,7 +16,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-data-efficient-large-scale-bioacoustic-monitoring",
+        },{id: "post-active-learning-for-bioacoustics-biodcase-challenge",
+        
+          title: "Active Learning for Bioacoustics BioDCASE Challenge",
+        
+        description: "An active learning data challenge for bioacoustics launching April 1st",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/biodcase-challenge/";
+          
+        },
+      },{id: "post-baseal-release",
+        
+          title: "BaseAL Release",
+        
+        description: "An Active Learning Evaluation Framework",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/BaseAL-Release/";
+          
+        },
+      },{id: "post-data-efficient-large-scale-bioacoustic-monitoring",
         
           title: "Data Efficient Large-Scale Bioacoustic Monitoring",
         
@@ -38,6 +60,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/stratified-active-learning/";
           
         },
+      },{id: "post-active-few-shot-learning",
+        
+          title: "Active Few-shot Learning",
+        
+        description: "Data-efficient detection of unrepresented species",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/active-few-shot-learning/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -54,6 +87,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-co-organising-the-biodcase-workshop-see-you-at-the-upcoming-biodcase-and-dcase-workshop",
           title: 'Co-organising the BioDCASE Workshop — See you at the upcoming BioDCASE and DCASE...',
+          description: "",
+          section: "News",},{id: "news-active-learning-for-bioacoustics-i-am-please-to-announce-that-the-active-learning-for-bioacoustic-biodcase-data-challenge-will-be-released-on-april-1st",
+          title: 'Active Learning for Bioacoustics — I am please to announce that the Active...',
           description: "",
           section: "News",},{
       id: 'light-theme',
