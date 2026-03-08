@@ -35,7 +35,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/BaseAL-Release/";
+            window.location.href = "/blog/2026/BaseAL-Release-copy/";
           
         },
       },{id: "post-data-efficient-large-scale-bioacoustic-monitoring",
@@ -60,15 +60,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/stratified-active-learning/";
           
         },
-      },{id: "post-active-few-shot-learning",
+      },{id: "post-learning-actively-an-experiment-in-self-study",
         
-          title: "Active Few-shot Learning",
+          title: "Learning Actively... An Experiment in Self-Study",
         
-        description: "Data-efficient detection of unrepresented species",
+        description: "Applying active learning principles to self-study",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/active-few-shot-learning/";
+            window.location.href = "/blog/2020/Learning-Actively/";
           
         },
       },{id: "books-the-godfather",
