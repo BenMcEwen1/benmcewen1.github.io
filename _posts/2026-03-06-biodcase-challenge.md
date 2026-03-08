@@ -16,7 +16,7 @@ If you work with bioacoustics data and are interested in how machine learning mo
 
 Participants will use [BaseAL](https://github.com/BenMcEwen1/BaseAL), our evaluation framework, to develop and benchmark active learning strategies on real bioacoustic datasets spanning both terrestrial and marine environments.
 
-- [BioDCASE task page](https://lnkd.in/e4NjDMum)
-- [Try the BaseAL demo](https://lnkd.in/eRB7MrW9)
+- BioDCASE task [page](https://biodcase.github.io/challenge2026/#active-learning-for-bioacoustics)
+- Try the BaseAL [demo](https://baseal.up.railway.app/)
 
 Thanks to the rest of the organising team: Lukas Rauch, Marek Herde, Shiqi Zhang, Rupa Kurinchi-Vendhan, John Martinsson and Sara Beery.
