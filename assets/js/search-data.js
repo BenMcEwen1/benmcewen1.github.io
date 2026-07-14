@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/active-learning/";
           
         },
+      },{id: "post-learning-actively-an-experiment-in-self-study",
+        
+          title: "Learning Actively... An Experiment in Self-Study",
+        
+        description: "Applying active learning principles to self-study",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Learning-Actively/";
+          
+        },
       },{id: "post-stratified-active-learning",
         
           title: "Stratified Active Learning",
@@ -58,17 +69,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/stratified-active-learning/";
-          
-        },
-      },{id: "post-learning-actively-an-experiment-in-self-study",
-        
-          title: "Learning Actively... An Experiment in Self-Study",
-        
-        description: "Applying active learning principles to self-study",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/Learning-Actively/";
           
         },
       },{id: "books-the-godfather",
