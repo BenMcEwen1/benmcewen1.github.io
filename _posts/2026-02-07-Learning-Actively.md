@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Actively... An Experiment in Self-Study
-date: 2020-03-07 12:00:00
+date: 2025-07-07 12:00:00
 description: Applying active learning principles to self-study
 tags: personal active-learning
 categories: Projects Work-in-Progress
@@ -56,7 +56,7 @@ In the model example, it is assumed that we already have a pool of representativ
 
 To start, we need to identify what our target concept is and where it fits within the landscape of related concepts. Here is the *you don't know what you don't know* problem in action. Identifying related concepts and formulating our problem into something learnable is, in itself, a challenge. We may already understand some related concepts but identifying these connections is non-trivial.
 
-As mentioned, this is where LLMs are useful. Through their breadth of knowledge and ability to automate the search process, relevant solutions and concepts can be identified, all within the context of your specific application space. Below is an example of this, given a *problem*, some *user information* (e.g. background, goals etc) as well as a list of *prior knowledge* (e.g. existing graph), a graph of candidate concepts and their connections can be constructed. The demo app shown will be available soon.
+As mentioned, this is where LLMs are useful. Through their breadth of knowledge and ability to automate the search process, relevant solutions and concepts can be identified, all within the context of your specific application space. Below is an example of this, given a *problem*, some *user information* (e.g. background, goals etc) as well as a list of *prior knowledge* (e.g. existing graph), a graph of candidate concepts and their connections can be constructed.
 
 <!-- Graph construction - learning active learning -->
 <div style="max-width: 100%; margin-top: 20px;"></div>
@@ -102,7 +102,7 @@ The **Data Space**: A clear difference already highlighted is the *graph constru
 
 ---
 
-The screenshot shown here are a (work-in-progress) self-learning app I have developed to support my own learning and test these concepts. A demo will be released soon.
+The screenshot shown here are a (work-in-progress) self-learning app I have developed to support my own learning and test these concepts.
 
 
 
